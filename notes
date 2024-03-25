@@ -1,0 +1,13 @@
+// DOM - Document Object Model aka How people use Javascript to modify the Website ; Taken a HTML document and shove them into
+// into javascript 
+
+
+// strings 
+
+// In the fight of strings and numbers ,  the strings always wins 
+
+// document.getElementById("count") [ Till here we were asking the HTML element ].innerText [ Here we are modifying the HTML Element]= 0; 
+
+// document.getElementById("count-el").innerText = 5
+// change the count-el in the HTML to reflect the new count
+// camelCase
